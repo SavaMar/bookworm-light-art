@@ -2,7 +2,7 @@
 title: Первые шаги
 description: meta description
 image: "/uploads/kot3d.jpg"
-date: 2021-02-05T16:56:47.000+06:00
+date: 2021-02-05T10:56:47+00:00
 author: Lubana Era
 tags:
 - Diy
