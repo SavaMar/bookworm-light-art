@@ -11,13 +11,22 @@ categories:
 - LifeStyle
 
 ---
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Всем привет :)   
+Меня зовут Маричка и это мой мини ламповый блог в котором я планирую создать серию статей под названием "Становление художника". Глобально, конечно, если рассматривать внимательно, то в моих статьях себя найдут не только люди которым импонируют творческие професии, но акцент я буду ставить конкретно на "художников". Вся серия по сути направлена на становление человека в том или ином направлении которое каждый из нас выбрал. На пути всегда будут страхи, победы, риски, внутренние сгорания и рассветы что бы вы не выбрали. Если понимать как это работает и найти в себе смелость наблюдать, то все из выше перечисленноного может стать инструментом, как для понимания себя, так и для внутреннего прорыва креативности.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+  
+Я выбрала путь художника в уже достаточно зрелом возрасте. Я по профессии програмист и открыв в себе порыв к нечто "другому", сделала для себя невероятное количество открытий которые объясняют такое сильное внутреннее давление в процессе становления. Профессия програмиста послужила прекрасным контрастом на основе которого так видна "боль художников".   
+Если взглянуть на историю в целом, то люди которые тяготели к точным наукам во многом были отвергнуты обществом или приняты, но все равно на расстоянии "вытянутой руки". Они были не понятны и что бы хоть как то соприкоснутся с их деятельностью, то нужно изрядно попотеть мозгом - на что не многие были готовы. Профессия программиста очень свежая, у история у нее тоже очень свежая. Очень много всего приходится изучать и открывать что бы происходили открытия, многие вещи приходится "создавать" впервые и в процессе создания нового сложно находить примеры чужих трудов. Конечно, история математики им очень помогает, но я веду к тому что нет пока некоего "богатства" в истории чужих трудов что могли бы помочь понять как делать лучше. Истрия создается сейчас.   
+Чего не скажешь про художников. Истрия искуств хранит примеры, правила, уроки, революции, нарушения правил, лучшие практики и больше того, мы это учим в школе, взращиваем в этом вопросе свое мнение и самое главное, у большинства из нас есть глаза что бы видеть и ум что бы "обрабатывать" то что мы видим и еще и судить, взращивать свое мнение на основании того что мы видим. Мы можем подумать что мы художники невероятно богаты, но в тоже время это один их первых мешков с камнями которые мы кладем себе на спину...   
+  
+   "Все уже нарисовано что можно нарисовать", "Руки как то выглядят криво", "А вот в древности рисовали и ты должен так", "А кот у тебя не так похож на кота которого вижу я".
 
 ### Creative Design
+
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
->Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+> "Все уже нарисовано что можно нарисовать", "Руки как то выглядят криво", "А вот в древности рисовали и ты должен так", "А кот у тебя не так похож на кота которого вижу я".
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio exped
+
+ita praesentium est adipisci dolorem ut eius!
