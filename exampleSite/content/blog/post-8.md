@@ -1,7 +1,7 @@
 ---
 title: Первые шаги
 description: meta description
-image: ''
+image: "/uploads/kot3d.jpg"
 date: 2021-02-05T16:56:47.000+06:00
 author: Lubana Era
 tags:
